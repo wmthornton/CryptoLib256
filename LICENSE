@@ -1,0 +1,92 @@
+PUBLIC BENEFIT ZERO COPYRIGHT LICENSE v. 1.0
+SPDX Identifier: <TBD>
+
+Revision Date: October 18th, 2021
+
+Everyone is permitted to copy and distribute verbatim copies of this
+license document, but changing it is expressly prohibited.
+
+Definitions:
+
+1) "This License" refers to version 1.0 of the Public Benefit
+   Zero Copyright License.
+
+2) "Copyright" means any laws intended to protect software and associated
+   works, such as written texts and documentation, but this definition is not 
+   limited and shall be construed to include other works as defined by local 
+   or international laws.
+
+3) "This Software" or "this software" refers to any ostensibly
+   copyrightable work to which This License has been assigned.
+
+4) "Derivative Software" or "derivative software" refers to any
+   ostensibly copyrightable work within which any portion was derived
+   from This Software or any work subject to This License.
+
+5) "General Public Benefit" or "general public benefit" shall mean Free
+   Open Source Software and/or Commercial Open Source Software, including
+   operating systems and applications software which fosters technological 
+   and/or educational advancement. 
+
+6) "Public Domain" or "public domain" shall mean This Software or
+   Derivative Software is entirely free from ownership such as copyright,
+   trademark, or patent.
+
+7) "Free Open Source Software" shall mean This Software or Derivative
+   Software that licensed to be free to use, modify, and distribute.
+
+8) "Commercial Open Source Software" shall mean This Software or Derivative
+   Software which is designed to interact with closed, proprietary software
+   in such a way that not all code is publicly available. Software released under 
+   this definition may be sold as part of a larger commercial product
+   but a public repository must be maintained which includes This Software or
+   Derivative Software, in addition to dedicated documentation regarding all API 
+   endpoints and system calls such that a Third-Party developer can understand what 
+   This Software or Derivative Software is doing when interacting with 
+   proprietary source code, binaries, libraries and APIs. Additionally, This
+   Software or Derivative Software must be made free to use, modify or
+   distribute in derivative works by Third-Party developers.
+
+This is free and unencumbered software released into the public domain,
+and intended to be kept in the public domain in perpetuity.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means provided:
+
+1) This Software or Derivative Software is intended to inure to the
+   General Public Benefit, and
+
+2) They do not assign additional licensing or attribution
+   requirements to This Software or Derivative Software, and
+
+3) This Software or Derivative Software remains subject to this
+   revision of the Public Benefit Zero Copyright License or its'
+   superseding revision, whichever is most recent at the time of
+   development, and
+
+4) This Software or Derivative Software is publicy released as Free
+   Open Source Software and/or as Commericial Open Source Software, as
+   appropriate, and
+
+5) A copy of This License is included with all distributions of This
+   Software or Derivative Software.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in This
+Software to the public domain subject to the provisions above.
+We make this dedication for the benefit of the public at large and to 
+the detriment of our heirs and successors. We intend this dedication to
+be an overt act of relinquishment in perpetuity of all present and future
+rights to this software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <https://github.com/wmthornton/PBZC.git>
