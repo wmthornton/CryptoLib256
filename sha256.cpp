@@ -1,5 +1,5 @@
 /*
- * This file is part of the CryptoLibCPP library.
+ * This file is part of the CryptoLib256 library.
  * Developed (D) 2021/2022 by Wayne Michael Thornton aka WMT.
  * 
  * Distributed under the Public Benefit Zero Copyright License (v.1.0)
