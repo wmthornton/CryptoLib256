@@ -10,7 +10,7 @@
 
 // DEMO FILE ** DEMO FILE ** DEMO FILE ** DEMO FILE ** DEMO FILE ** DEMO FILE ** //
 
-#include "sha256_encrypt.h"
+#include "CryptoLib256/CryptoLib256.h" // A precompiled header file is included which speeds up compilation. This file is called CryptoLib256.h.gch
 
 int main(){
     
