@@ -20,8 +20,9 @@
 CC = g++
 CFLAGS = -Wall -g -W -pedantic -Werror
 
-linux: sha256.h sha256.cpp sha256_encrypt.h main.cpp
-	$(CC) $(CFLAGS) sha256.cpp main.cpp -o test
+linux: main.cpp
+	$(CC) $(CFLAGS) main.cpp -o test
+
 
 
 	
